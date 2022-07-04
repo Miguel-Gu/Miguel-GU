@@ -1,6 +1,6 @@
 ### Prazer, Gustavo!
 
-- Cursando Desenvolvimento de Sistemas no SENAI
+- Tecnico em Desenvolvimento de Sistemas pelo SENAI
 
 <div>
   <a href="https://github.com/Miguel-Gu">
