@@ -1,6 +1,8 @@
 ### Prazer, Gustavo!
 
 - Tecnico em Desenvolvimento de Sistemas pelo SENAI
+- Estagiário Desenvolvedor Full Stack na 2RP Net
+- Cursando Ciência da Computação na Universidade Cruzeiro do Sul
 
 <div>
   <a href="https://github.com/Miguel-Gu">
