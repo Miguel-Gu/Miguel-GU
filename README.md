@@ -13,9 +13,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gustavo-FastAPI" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
-  <img align="center" alt="Gustavo-SQLAlchemy" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
-  <img align="center" alt="Gustavo-GoogleCloud" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="Gustavo-FastAPI" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="Gustavo-SQLAlchemy" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img align="center" alt="Gustavo-GoogleCloud" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
 </div>
   
   ##
