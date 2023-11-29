@@ -2,7 +2,7 @@
 
 - Tecnico em Desenvolvimento de Sistemas pelo SENAI
 - Estagiário Desenvolvedor Full Stack na 2RP Net
-- Cursando Análise e Desenvolvimento de Sistemas no IF SP
+- Cursando Análise e Desenvolvimento de Sistemas no IFSP
 
 <div>
   <a href="https://github.com/Miguel-Gu">
